@@ -61,4 +61,3 @@ This application predicts the median house price in California districts based o
 
 ---
 
-Feel free to update the contributors section with your information and customize the README further as needed!
