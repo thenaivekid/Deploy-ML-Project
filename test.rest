@@ -10,5 +10,5 @@ Content-Type: application/json
     "Population": 322.0,
     "AveOccup": 2.555556,
     "Latitude": 37.88,
-    "Longitude": -122.23
+    "Longitude": 200
 }
